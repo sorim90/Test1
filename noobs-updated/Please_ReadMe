@@ -1,0 +1,8 @@
+- Run ./BUILDME.sh
+(But please make sure that buildroot linux kernel contains joystick device driver or not...
+you could use the make menuconfig or make linux-menuconfig in buildroot directory for it)
+- After some hours you could see new folder "output".
+- Please copy all and paste to sd card (formated).
+At this time, you have to contains retropi image to os folder.
+- And then please put sd card to rpi3b and run.  
+
